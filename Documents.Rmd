@@ -1,0 +1,18 @@
+---
+title: "Documents"
+author: "Shishuhuan"
+date: "Thursday, March 03, 2016"
+output: html_document
+---
+
+### Application Description
+
+This application calculates how many days between different Dates.
+
+#### Tab Output1
+
+Users choose **Start Date** and **End Date**,then consider weather include these days in the calculation.
+
+#### Tab Output2
+
+Users input a Date and decide regard this Date as **Start Date** or **End Date**.After inputing a diff, you will get the Date you want.
